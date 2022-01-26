@@ -26,10 +26,13 @@ public class LimitacaoUsuario
         Console.ReadLine();
          goto inicio;                                              // volte ao inicio
         }
-        
-        Console.WriteLine("AUTORIZADO");                            
+                               
         Console.WriteLine("ACESSO AUTORIZADO");             
         Console.ReadLine();
+
+        Console.WriteLine("################");        
+        Console.WriteLine("SEJA BEM-VINDO");
+        
                        
 }
 }
